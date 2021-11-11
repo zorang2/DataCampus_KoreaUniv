@@ -1,5 +1,5 @@
 ## 데이터 수집
-1. AutoCrawler, Selenium, BeautifulSoup를 사용하여 연예인 이미지 데이터 수집.   
+1. AutoCrawler, Selenium, BeautifulSoup를 사용하여 연예인 이미지 데이터 수집   
 
 ## 데이터 전처리
 1. Vision API, 화면캡쳐를 통해 연예인 Face Crop   
